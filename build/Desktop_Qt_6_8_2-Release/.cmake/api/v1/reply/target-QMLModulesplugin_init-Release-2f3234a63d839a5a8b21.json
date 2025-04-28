@@ -1,0 +1,330 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "QMLModules/CMakeFiles/QMLModulesplugin_init.dir/./QMLModulesplugin_init_autogen/mocs_compilation.cpp.o"
+		},
+		{
+			"path" : "QMLModules/CMakeFiles/QMLModulesplugin_init.dir/./QMLModulesplugin_init.cpp.o"
+		}
+	],
+	"backtrace" : 6,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"__qt_internal_add_static_plugin_init_object_library",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"set_property",
+			"_qt_internal_copy_dependency_properties",
+			"__qt_internal_propagate_object_library",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+			"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"QMLModules/CMakeLists.txt",
+			"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:792:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 1241,
+				"parent" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 913,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 258,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2655,
+				"parent" : 4
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2742,
+				"parent" : 5
+			},
+			{
+				"command" : 8,
+				"file" : 2,
+				"line" : 917,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 1978,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2850,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2850,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 2850,
+				"parent" : 8
+			},
+			{
+				"file" : 3,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 4,
+				"line" : 1,
+				"parent" : 12
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 847,
+				"parent" : 13
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 1500,
+				"parent" : 14
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-O3 -DNDEBUG -fdiagnostics-color=always"
+				},
+				{
+					"backtrace" : 9,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 10,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_DEPRECATED_WARNINGS"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_NO_DEBUG"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_PLUGIN"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "QT_STATICPLUGIN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Release/QMLModules/QMLModulesplugin_init_autogen/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Release/QMLModules/QMLModulesplugin_autogen/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtQml"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/phong/MediaPlayerV2/QMLModules"
+				},
+				{
+					"backtrace" : 11,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include"
+				},
+				{
+					"backtrace" : 11,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/include/QtCore"
+				},
+				{
+					"backtrace" : 11,
+					"isSystem" : true,
+					"path" : "/home/phong/Qt/6.8.2/gcc_64/mkspecs/linux-g++"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "QMLModulesplugin_init_autogen_timestamp_deps::@89f6523c670cbd19057e"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QMLModulesplugin_init_autogen::@89f6523c670cbd19057e"
+		}
+	],
+	"id" : "QMLModulesplugin_init::@89f6523c670cbd19057e",
+	"name" : "QMLModulesplugin_init",
+	"paths" : 
+	{
+		"build" : "QMLModules",
+		"source" : "QMLModules"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				3
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Release/QMLModules/QMLModulesplugin_init_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Release/QMLModules/QMLModulesplugin_init.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 15,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Release/QMLModules/meta_types/qt6qmlmodulesplugin_init_release_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Release/QMLModules/QMLModulesplugin_init_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Release/QMLModules/meta_types/qt6qmlmodulesplugin_init_release_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Release/QMLModules/QMLModulesplugin_init_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_2-Release/QMLModules/meta_types/QMLModulesplugin_init_json_file_list.txt.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

@@ -1,0 +1,14 @@
+-rootPath
+/home/phong/MediaPlayerV2
+-cmake-output
+-output-file
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.qt/qml_imports/appMediaPlayerV2_build.cmake
+-importPath
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/MediaPlayerV2
+-importPath
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug
+-importPath
+/home/phong/Qt/6.8.2/gcc_64/qml
+-qrcFiles
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.qt/rcc/qmake_MediaPlayerV2.qrc
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.qt/rcc/appMediaPlayerV2_raw_qml_0.qrc

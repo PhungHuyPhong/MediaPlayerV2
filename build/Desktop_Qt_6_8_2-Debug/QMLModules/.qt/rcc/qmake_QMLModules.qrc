@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QMLModules">
+    <file alias="qmldir">/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,4 @@
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/appMediaPlayerV2_autogen/include/../EWIEGA46WW/moc_bluetoothmanager.cpp.json
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/appMediaPlayerV2_autogen/include/../EWIEGA46WW/moc_mediaplayer.cpp.json
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/appMediaPlayerV2_autogen/include/../EWIEGA46WW/moc_playlistmodel.cpp.json
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/appMediaPlayerV2_autogen/include/../EWIEGA46WW/moc_sensorsmanager.cpp.json

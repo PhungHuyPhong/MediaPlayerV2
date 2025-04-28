@@ -1,0 +1,391 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-3b46179df7ec0a578923.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33
+					]
+				},
+				{
+					"build" : "QMLModules",
+					"jsonFile" : "directory-QMLModules-Release-b7190af7a8e5fa0a4dfc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "QMLModules",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MediaPlayerV2",
+					"targetIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "QMLModules",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules-Release-6c72a053b961241ed98b.json",
+					"name" : "QMLModules",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_autogen::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_autogen-Release-0ceee7c36a96f4d719c0.json",
+					"name" : "QMLModules_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_autogen_timestamp_deps::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_autogen_timestamp_deps-Release-4d6a62687750ed6e78b6.json",
+					"name" : "QMLModules_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_copy_qml::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_copy_qml-Release-9c15a89f6afed4b48c2a.json",
+					"name" : "QMLModules_copy_qml",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_copy_res::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_copy_res-Release-e9299a32e11d5ddbd7ff.json",
+					"name" : "QMLModules_copy_res",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_qmllint::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_qmllint-Release-483c3d49dd6e11d847cf.json",
+					"name" : "QMLModules_qmllint",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_qmllint_json::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_qmllint_json-Release-fe1779f549dc02cc36a2.json",
+					"name" : "QMLModules_qmllint_json",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_qmllint_module::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_qmllint_module-Release-0b8521ee50b7e2e7bdfe.json",
+					"name" : "QMLModules_qmllint_module",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_qmltyperegistration::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_qmltyperegistration-Release-cc3e26e0e19334771d2c.json",
+					"name" : "QMLModules_qmltyperegistration",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_resources_1::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_resources_1-Release-65ed4fa69bb9edcfa583.json",
+					"name" : "QMLModules_resources_1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModules_resources_2::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModules_resources_2-Release-f4f09c1840056f2d8259.json",
+					"name" : "QMLModules_resources_2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModulesplugin::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModulesplugin-Release-9427865310f77bb613ea.json",
+					"name" : "QMLModulesplugin",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModulesplugin_autogen::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModulesplugin_autogen-Release-b3e5aba9fa773173d050.json",
+					"name" : "QMLModulesplugin_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModulesplugin_autogen_timestamp_deps::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModulesplugin_autogen_timestamp_deps-Release-8d12c61311d9ddd83c03.json",
+					"name" : "QMLModulesplugin_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModulesplugin_init::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModulesplugin_init-Release-2f3234a63d839a5a8b21.json",
+					"name" : "QMLModulesplugin_init",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModulesplugin_init_autogen::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModulesplugin_init_autogen-Release-305f566d8a641a27f831.json",
+					"name" : "QMLModulesplugin_init_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QMLModulesplugin_init_autogen_timestamp_deps::@89f6523c670cbd19057e",
+					"jsonFile" : "target-QMLModulesplugin_init_autogen_timestamp_deps-Release-aedcba72f8da2db80483.json",
+					"name" : "QMLModulesplugin_init_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Release-585d668dd470b4c6a722.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-eb20c171a4873b5f0c8c.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-a904881d3ca6da7ea82e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-24526d1f3506fe05a4c4.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-205de4e08e3608026e44.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2-Release-902759ab287ca79fe85e.json",
+					"name" : "appMediaPlayerV2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_autogen-Release-53083c404ccfa17ba694.json",
+					"name" : "appMediaPlayerV2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_autogen_timestamp_deps-Release-559d41e09deb2c87035a.json",
+					"name" : "appMediaPlayerV2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_copy_qml-Release-8bc9a57785f7d416302c.json",
+					"name" : "appMediaPlayerV2_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_copy_res-Release-87e235235eddac0c8642.json",
+					"name" : "appMediaPlayerV2_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_qmlimportscan-Release-48ae5ac9d1e74e3c823f.json",
+					"name" : "appMediaPlayerV2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_qmllint-Release-365d0a3f79bd788c3441.json",
+					"name" : "appMediaPlayerV2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_qmllint_json-Release-597258bbc7eb08f3373a.json",
+					"name" : "appMediaPlayerV2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_qmllint_module-Release-724fb7bb8ae7a3e70c29.json",
+					"name" : "appMediaPlayerV2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMediaPlayerV2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMediaPlayerV2_qmltyperegistration-Release-76c9773d501e54c1daba.json",
+					"name" : "appMediaPlayerV2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_QMLModules_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_QMLModules_aotstats_target-Release-de2f0b36069b16ece317.json",
+					"name" : "module_QMLModules_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appMediaPlayerV2_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appMediaPlayerV2_aotstats_target-Release-d815d7aecc5ce38708a6.json",
+					"name" : "module_appMediaPlayerV2_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Release",
+		"source" : "/home/phong/MediaPlayerV2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

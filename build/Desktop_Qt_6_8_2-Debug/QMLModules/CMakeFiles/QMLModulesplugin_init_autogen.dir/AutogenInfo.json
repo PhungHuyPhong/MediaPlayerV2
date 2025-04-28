@@ -1,0 +1,177 @@
+{
+	"BUILD_DIR" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_init_autogen",
+	"CMAKE_BINARY_DIR" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/phong/MediaPlayerV2/QMLModules",
+	"CMAKE_EXECUTABLE" : "/home/phong/Qt/Tools/CMake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/phong/MediaPlayerV2/QMLModules/CMakeLists.txt",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.qtc/package-manager/auto-setup.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtFeature.cmake",
+		"/home/phong/Qt/Tools/CMake/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomCpeHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomLicenseHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomPurlHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomPythonHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicSbomSystemDepHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/home/phong/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp",
+		"/home/phong/Qt/6.8.2/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_QMLModulesPlugin_in.cpp"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/phong/MediaPlayerV2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_init_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "QMLModulesplugin_init_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_init_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_init_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_NETWORK_LIB",
+		"QT_PLUGIN",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QML_LIB",
+		"QT_STATICPLUGIN"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_autogen/include",
+		"/home/phong/Qt/6.8.2/gcc_64/include/QtQml",
+		"/home/phong/Qt/6.8.2/gcc_64/include/QtQmlIntegration",
+		"/home/phong/Qt/6.8.2/gcc_64/include/QtNetwork",
+		"/home/phong/MediaPlayerV2/QMLModules",
+		"/home/phong/Qt/6.8.2/gcc_64/include",
+		"/home/phong/Qt/6.8.2/gcc_64/include/QtCore",
+		"/home/phong/Qt/6.8.2/gcc_64/mkspecs/linux-g++",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/phong/Qt/Tools/CMake/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_init_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qrc_QMLModules_raw_qml_0.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qrc_QMLModules_raw_qml_0_init.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qrc_qmake_QMLModules.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qrc_qmake_QMLModules_init.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_BluetoothPanel_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_PlayerControls_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_PlaylistView_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_ProgressBar_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_SensorsPanel_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_VolumeControl_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_qmlcache_loader.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModules_autogen/mocs_compilation.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_autogen/mocs_compilation.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/qmlmodules_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/CMakeFiles/QMLModulesplugin_init_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/phong/Qt/6.8.2/gcc_64/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/CMakeFiles/QMLModulesplugin_init_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_init.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qrc_QMLModules_raw_qml_0.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qrc_QMLModules_raw_qml_0_init.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qrc_qmake_QMLModules.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qrc_qmake_QMLModules_init.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_BluetoothPanel_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_PlayerControls_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_PlaylistView_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_ProgressBar_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_SensorsPanel_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_VolumeControl_qml.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.rcc/qmlcache/QMLModules_qmlcache_loader.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModules_autogen/mocs_compilation.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/QMLModulesplugin_autogen/mocs_compilation.cpp",
+		"/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/qmlmodules_qmltyperegistrations.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

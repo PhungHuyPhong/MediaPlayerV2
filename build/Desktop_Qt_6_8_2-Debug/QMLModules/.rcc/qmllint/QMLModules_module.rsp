@@ -1,0 +1,12 @@
+-I
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug
+-I
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug
+-I
+/home/phong/Qt/6.8.2/gcc_64/qml
+--resource
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/qmake_QMLModules.qrc
+--resource
+/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/QMLModules/.qt/rcc/QMLModules_raw_qml_0.qrc
+--module
+QMLModules
