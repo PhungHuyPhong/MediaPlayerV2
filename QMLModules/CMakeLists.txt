@@ -6,7 +6,7 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(QT_QML_OUTPUT_DIRECTORY  ${CMAKE_BINARY_DIR})
 
-find_package(Qt6 6.2 COMPONENTS Quick REQUIRED)
+find_package(Qt6 6.2 REQUIRED COMPONENTS Core Gui Qml Quick Bluetooth Multimedia Sensors)
 
 qt_add_library(QMLModules STATIC)
 qt_add_qml_module(QMLModules
@@ -32,7 +32,7 @@ set_target_properties(QMLModules PROPERTIES
 target_compile_definitions(QMLModules
     PRIVATE $<$<OR:$<CONFIG:Debug>,$<CONFIG:RelWithDebInfo>>:QT_QML_DEBUG>)
 target_link_libraries(QMLModules
-    PRIVATE Qt6::Quick)
+     PRIVATE Qt6::Quick Qt6::Bluetooth Qt6::Multimedia Qt6::Core Qt6::Gui Qt6::Qml Qt6::Sensors)
 
 target_include_directories(QMLModules PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 

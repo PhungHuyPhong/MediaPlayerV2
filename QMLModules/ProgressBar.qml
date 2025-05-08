@@ -68,7 +68,7 @@ Rectangle {
                     onPositionChanged: {
                         if (drag.active && mediaPlayer) {
                             const pos = (parent.x + width / 2) / progressBackground.width;
-                            (mediaPlayer ? mediaPlayer.position : 0) = pos * (mediaPlayer ? mediaPlayer.duration : 0);
+                             mediaPlayer.position = pos * mediaPlayer.duration;
                         }
                     }
                 }
@@ -80,7 +80,7 @@ Rectangle {
                 onClicked: {
                     if (mediaPlayer) {
                         const pos = mouseX / width;
-                        (mediaPlayer ? mediaPlayer.position : 0) = pos * (mediaPlayer ? mediaPlayer.duration : 0);
+                         mediaPlayer.position = pos * mediaPlayer.duration;
                     }
                 }
                 // Ensure we're below the handle's mouse area in z-order

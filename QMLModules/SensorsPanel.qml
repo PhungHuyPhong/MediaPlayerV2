@@ -35,7 +35,7 @@ Rectangle {
             }
 
             Label {
-                text: sensorsManager ? (sensorsManager ? sensorsManager.temperature : 0).toFixed(1) + "°C" : "N/A"
+                text: sensorsManager ? (sensorsManager ? (sensorsManager ? sensorsManager.temperature : 0) : 0).toFixed(1) + "°C" : "N/A"
                 color: "white"
             }
 
@@ -47,7 +47,7 @@ Rectangle {
             }
 
             Label {
-                text: sensorsManager ? (sensorsManager ? sensorsManager.ambientBrightness : 0) + "%" : "N/A"
+                text: sensorsManager ? (sensorsManager ? (sensorsManager ? sensorsManager.ambientBrightness : 0) : 0) + "%" : "N/A"
                 color: "white"
             }
 
@@ -59,7 +59,7 @@ Rectangle {
             }
 
             Label {
-                text: sensorsManager ? ((sensorsManager ? sensorsManager.isNear : 0) ? "Object Detected" : "No Object") : "N/A"
+                text: sensorsManager ? ((sensorsManager ? (sensorsManager ? sensorsManager.isNear : 0) : 0) ? "Object Detected" : "No Object") : "N/A"
                 color: "white"
             }
 
@@ -72,14 +72,14 @@ Rectangle {
 
             Label {
                 id: gestureLabel
-                text: sensorsManager ? (sensorsManager ? sensorsManager.gestureDetected : 0) : "None"
-                color: sensorsManager && (sensorsManager ? sensorsManager.gestureDetected : 0) === "None" ? "lightgray" : "#aaddff"
-                font.bold: sensorsManager && (sensorsManager ? sensorsManager.gestureDetected : 0) !== "None"
+                text: sensorsManager ? (sensorsManager ? (sensorsManager ? sensorsManager.gestureDetected : 0) : 0) : "None"
+                color: sensorsManager && (sensorsManager ? (sensorsManager ? sensorsManager.gestureDetected : 0) : 0) === "None" ? "lightgray" : "#aaddff"
+                font.bold: sensorsManager && (sensorsManager ? (sensorsManager ? sensorsManager.gestureDetected : 0) : 0) !== "None"
 
                 // Animation for gesture detection
                 SequentialAnimation {
                     id: gestureAnimation
-                    running: sensorsManager && (sensorsManager ? sensorsManager.gestureDetected : 0) !== "None"
+                    running: sensorsManager && (sensorsManager ? (sensorsManager ? sensorsManager.gestureDetected : 0) : 0) !== "None"
                     loops: 1
 
                     ColorAnimation {
@@ -135,7 +135,7 @@ Rectangle {
                         checked: true
                         onToggled: {
                             if (sensorsManager) {
-                                 (sensorsManager ? sensorsManager.setTempSensorActive : 0)(checked);
+                                 (sensorsManager ? (sensorsManager ? sensorsManager.setTempSensorActive : 0) : 0)(checked);
                             }
                         }
                     }
@@ -149,7 +149,7 @@ Rectangle {
                         checked: true
                         onToggled: {
                             if (sensorsManager) {
-                                (sensorsManager ? sensorsManager.setLightSensorActive : 0)(checked);
+                                (sensorsManager ? (sensorsManager ? sensorsManager.setLightSensorActive : 0) : 0)(checked);
                             }
                         }
                     }
@@ -163,7 +163,7 @@ Rectangle {
                         checked: true
                         onToggled: {
                             if (sensorsManager) {
-                                 (sensorsManager ? sensorsManager.setGestureSensorActive : 0)(checked);
+                                 (sensorsManager ? (sensorsManager ? sensorsManager.setGestureSensorActive : 0) : 0)(checked);
                             }
                         }
                     }

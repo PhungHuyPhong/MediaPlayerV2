@@ -24,7 +24,7 @@ Rectangle {
             Layout.fillWidth: true
             from: 0
             to: 100
-            value: mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0) : 0
+            value: mediaPlayer ? (mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0) : 0) : 0
             stepSize: 1
 
             property color accentColor: "#66aaff"
@@ -65,13 +65,13 @@ Rectangle {
 
             onMoved: {
                 if (mediaPlayer) {
-                    (mediaPlayer ? mediaPlayer.volume : 0) = value;
+                     mediaPlayer.volume = value;
                 }
             }
         }
 
         Label {
-            text: mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0).toFixed(0) + "%" : "0%"
+            text: mediaPlayer ? (mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0) : 0).toFixed(0) + "%" : "0%"
             color: "white"
             horizontalAlignment: Text.AlignRight
             Layout.minimumWidth: 50
@@ -80,29 +80,29 @@ Rectangle {
 
         ToolButton {
             id: muteButton
-            icon.name:  mediaPlayer && (mediaPlayer ? mediaPlayer.volume : 0) <= 0 ? "audio-volume-muted" :
-                        (mediaPlayer && (mediaPlayer ? mediaPlayer.volume : 0) < 30 ? "audio-volume-low" :
-                         (mediaPlayer && (mediaPlayer ? mediaPlayer.volume : 0) < 70 ? "audio-volume-medium" : "audio-volume-high"))
+            icon.name:  mediaPlayer && (mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0) : 0) <= 0 ? "audio-volume-muted" :
+                        (mediaPlayer && (mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0) : 0) < 30 ? "audio-volume-low" :
+                         (mediaPlayer && (mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0) : 0) < 70 ? "audio-volume-medium" : "audio-volume-high"))
 
             property bool wasMuted: false
             property int lastVolume: 50
 
             onClicked: {
                 if (mediaPlayer) {
-                    if ((mediaPlayer ? mediaPlayer.volume : 0) > 0) {
-                        lastVolume = (mediaPlayer ? mediaPlayer.volume : 0);
-                        (mediaPlayer ? mediaPlayer.volume : 0) = 0;
+                    if ((mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0) : 0) > 0) {
+                        lastVolume =  mediaPlayer.volume;
+                        mediaPlayer.volume = 0;
                         wasMuted = true;
                     } else if (wasMuted) {
-                        (mediaPlayer ? mediaPlayer.volume : 0) = lastVolume;
-                         wasMuted = false;
+                        mediaPlayer.volume = lastVolume;
+                        wasMuted = false;
                     } else {
-                        (mediaPlayer ? mediaPlayer.volume : 0) = 50;
+                        mediaPlayer.volume = 50;
                     }
                 }
             }
 
-            ToolTip.text: mediaPlayer && (mediaPlayer ? mediaPlayer.volume : 0) <= 0 ? "Unmute" : "Mute"
+            ToolTip.text: mediaPlayer && (mediaPlayer ? (mediaPlayer ? mediaPlayer.volume : 0) : 0) <= 0 ? "Unmute" : "Mute"
             ToolTip.visible: hovered
         }
     }

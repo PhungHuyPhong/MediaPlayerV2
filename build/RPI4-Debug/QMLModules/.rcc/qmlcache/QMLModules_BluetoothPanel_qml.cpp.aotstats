@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 458,
+                        "durationMicroseconds": 110,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 13
@@ -54,14 +54,14 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 41,
+                        "durationMicroseconds": 36,
                         "errorMessage": "Cannot access value for name bluetoothManager",
                         "functionName": "visible",
                         "line": 48
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 23,
+                        "column": 22,
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on text.",
                         "functionName": "text",
@@ -73,23 +73,23 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on onClicked.",
                         "functionName": "onClicked",
-                        "line": 65
+                        "line": 66
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 27,
                         "errorMessage": "Cannot access value for name bluetoothManager",
                         "functionName": "visible",
-                        "line": 75
+                        "line": 76
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 25,
                         "errorMessage": "Cannot access value for name bluetoothManager",
                         "functionName": "model",
-                        "line": 77
+                        "line": 78
                     },
                     {
                         "codegenSuccessfull": false,
@@ -97,7 +97,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on width.",
                         "functionName": "width",
-                        "line": 83
+                        "line": 84
                     },
                     {
                         "codegenSuccessfull": false,
@@ -105,15 +105,15 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on onClicked.",
                         "functionName": "onClicked",
-                        "line": 86
+                        "line": 87
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 64,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 91
+                        "line": 92
                     },
                     {
                         "codegenSuccessfull": false,
@@ -121,7 +121,7 @@
                         "durationMicroseconds": 37,
                         "errorMessage": "Cannot access value for name bluetoothManager",
                         "functionName": "text",
-                        "line": 102
+                        "line": 103
                     },
                     {
                         "codegenSuccessfull": true,
@@ -129,7 +129,7 @@
                         "durationMicroseconds": 58,
                         "errorMessage": "",
                         "functionName": "centerIn",
-                        "line": 101
+                        "line": 102
                     },
                     {
                         "codegenSuccessfull": false,
@@ -137,7 +137,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on text.",
                         "functionName": "text",
-                        "line": 123
+                        "line": 124
                     },
                     {
                         "codegenSuccessfull": false,
@@ -145,7 +145,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on text.",
                         "functionName": "text",
-                        "line": 132
+                        "line": 133
                     },
                     {
                         "codegenSuccessfull": false,
@@ -153,7 +153,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on text.",
                         "functionName": "text",
-                        "line": 143
+                        "line": 144
                     },
                     {
                         "codegenSuccessfull": false,
@@ -161,15 +161,15 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on visible.",
                         "functionName": "visible",
-                        "line": 165
+                        "line": 166
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 89,
+                        "durationMicroseconds": 88,
                         "errorMessage": "",
                         "functionName": "alignment",
-                        "line": 166
+                        "line": 167
                     },
                     {
                         "codegenSuccessfull": false,
@@ -177,7 +177,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on visible.",
                         "functionName": "visible",
-                        "line": 171
+                        "line": 172
                     },
                     {
                         "codegenSuccessfull": false,
@@ -185,15 +185,15 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on running.",
                         "functionName": "running",
-                        "line": 173
+                        "line": 174
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 83,
+                        "durationMicroseconds": 78,
                         "errorMessage": "",
                         "functionName": "alignment",
-                        "line": 172
+                        "line": 173
                     }
                 ],
                 "filepath": "/home/phong/MediaPlayerV2/QMLModules/BluetoothPanel.qml"

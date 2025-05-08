@@ -28,6 +28,7 @@
 #define __cpp_binary_literals 201304L
 #define __FLT64_DECIMAL_DIG__ 17
 #define __cpp_noexcept_function_type 201510L
+#define QT_BLUETOOTH_LIB 1
 #define __GCC_ATOMIC_CHAR32_T_LOCK_FREE 2
 #define __cpp_variadic_templates 200704L
 #define __UINT_FAST32_TYPE__ long unsigned int
@@ -119,6 +120,7 @@
 #define __UINT16_C(c) c
 #define __DECIMAL_DIG__ 36
 #define __FLT64_EPSILON__ 2.22044604925031308084726333618164062e-16F64
+#define QT_MULTIMEDIA_LIB 1
 #define __gnu_linux__ 1
 #define __INT16_MAX__ 0x7fff
 #define __FLT64_MIN_EXP__ (-1021)
@@ -425,6 +427,7 @@
 #define __FLT128_EPSILON__ 1.92592994438723585305597794258492732e-34F128
 #define SIZEOF_DPTR (sizeof(void*))
 #define __SIZEOF_LONG_LONG__ 8
+#define QT_SENSORS_LIB 1
 #define __cpp_user_defined_literals 200809L
 #define __FLT128_DECIMAL_DIG__ 36
 #define __GCC_ATOMIC_LLONG_LOCK_FREE 2

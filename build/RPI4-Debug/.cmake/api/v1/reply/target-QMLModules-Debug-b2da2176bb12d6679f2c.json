@@ -113,15 +113,15 @@
 			},
 			{
 				"command" : 9,
-				"file" : 2,
-				"line" : 591,
-				"parent" : 6
-			},
-			{
-				"command" : 9,
 				"file" : 1,
 				"line" : 34,
 				"parent" : 0
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 591,
+				"parent" : 6
 			},
 			{
 				"command" : 10,
@@ -335,34 +335,42 @@
 			[
 				{
 					"backtrace" : 12,
-					"define" : "QT_CORE_LIB"
+					"define" : "QT_BLUETOOTH_LIB"
 				},
 				{
 					"backtrace" : 13,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 12,
 					"define" : "QT_GUI_LIB"
 				},
 				{
 					"backtrace" : 12,
+					"define" : "QT_MULTIMEDIA_LIB"
+				},
+				{
+					"backtrace" : 13,
 					"define" : "QT_NETWORK_LIB"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"define" : "QT_OPENGL_LIB"
 				},
 				{
-					"backtrace" : 12,
+					"backtrace" : 13,
 					"define" : "QT_QMLINTEGRATION_LIB"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"define" : "QT_QMLMETA_LIB"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"define" : "QT_QMLMODELS_LIB"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"define" : "QT_QMLWORKERSCRIPT_LIB"
 				},
 				{
@@ -370,12 +378,16 @@
 					"define" : "QT_QML_DEBUG"
 				},
 				{
-					"backtrace" : 12,
+					"backtrace" : 13,
 					"define" : "QT_QML_LIB"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_SENSORS_LIB"
 				}
 			],
 			"includes" : 
@@ -439,34 +451,49 @@
 					"path" : "/home/phong/qt6/pi/include/QtNetwork"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"isSystem" : true,
 					"path" : "/home/phong/qt6/pi/include/QtQuick"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"isSystem" : true,
 					"path" : "/home/phong/qt6/pi/include/QtGui"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"isSystem" : true,
 					"path" : "/home/phong/qt6/pi/include/QtQmlMeta"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"isSystem" : true,
 					"path" : "/home/phong/qt6/pi/include/QtQmlModels"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"isSystem" : true,
 					"path" : "/home/phong/qt6/pi/include/QtQmlWorkerScript"
 				},
 				{
-					"backtrace" : 13,
+					"backtrace" : 12,
 					"isSystem" : true,
 					"path" : "/home/phong/qt6/pi/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtBluetooth"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtMultimedia"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtSensors"
 				}
 			],
 			"language" : "CXX",
@@ -546,7 +573,10 @@
 				40,
 				41,
 				42,
-				43
+				43,
+				44,
+				45,
+				46
 			]
 		},
 		{
@@ -811,48 +841,63 @@
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 12,
+			"backtrace" : 13,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6qml_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 12,
+			"backtrace" : 13,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6core_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 12,
+			"backtrace" : 13,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6network_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 13,
+			"backtrace" : 12,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6quick_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 13,
+			"backtrace" : 12,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6gui_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 13,
+			"backtrace" : 12,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6qmlmeta_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 13,
+			"backtrace" : 12,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6qmlmodels_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 13,
+			"backtrace" : 12,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6qmlworkerscript_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 13,
+			"backtrace" : 12,
 			"path" : "/home/phong/qt6/pi/metatypes/qt6opengl_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6bluetooth_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6multimedia_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6sensors_release_metatypes.json",
 			"sourceGroupIndex" : 1
 		}
 	],

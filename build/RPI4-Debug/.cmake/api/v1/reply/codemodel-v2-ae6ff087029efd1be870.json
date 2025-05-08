@@ -11,7 +11,7 @@
 						1
 					],
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-3b46179df7ec0a578923.json",
+					"jsonFile" : "directory-.-Debug-425c28e58420a403ba6f.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -139,7 +139,7 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "QMLModules::@89f6523c670cbd19057e",
-					"jsonFile" : "target-QMLModules-Debug-cf584d5b38a592ca0780.json",
+					"jsonFile" : "target-QMLModules-Debug-b2da2176bb12d6679f2c.json",
 					"name" : "QMLModules",
 					"projectIndex" : 1
 				},
@@ -202,14 +202,14 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "QMLModules_resources_1::@89f6523c670cbd19057e",
-					"jsonFile" : "target-QMLModules_resources_1-Debug-df33850bc2ca83394106.json",
+					"jsonFile" : "target-QMLModules_resources_1-Debug-6afc3a9924f3184f15ec.json",
 					"name" : "QMLModules_resources_1",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "QMLModules_resources_2::@89f6523c670cbd19057e",
-					"jsonFile" : "target-QMLModules_resources_2-Debug-d803f907a81cf58580da.json",
+					"jsonFile" : "target-QMLModules_resources_2-Debug-bd784aeb71c3081105f2.json",
 					"name" : "QMLModules_resources_2",
 					"projectIndex" : 1
 				},
@@ -293,7 +293,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "appMediaPlayerV2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-appMediaPlayerV2-Debug-9cc6f5b28326d72723a1.json",
+					"jsonFile" : "target-appMediaPlayerV2-Debug-98393c4edc9ae8830fbb.json",
 					"name" : "appMediaPlayerV2",
 					"projectIndex" : 0
 				},

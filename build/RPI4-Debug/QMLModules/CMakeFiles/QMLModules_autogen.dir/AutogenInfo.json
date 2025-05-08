@@ -66,8 +66,10 @@
 	"MOC_COMPILATION_FILE" : "/home/phong/MediaPlayerV2/build/RPI4-Debug/QMLModules/QMLModules_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
+		"QT_BLUETOOTH_LIB",
 		"QT_CORE_LIB",
 		"QT_GUI_LIB",
+		"QT_MULTIMEDIA_LIB",
 		"QT_NETWORK_LIB",
 		"QT_OPENGL_LIB",
 		"QT_QMLINTEGRATION_LIB",
@@ -76,7 +78,8 @@
 		"QT_QMLWORKERSCRIPT_LIB",
 		"QT_QML_DEBUG",
 		"QT_QML_LIB",
-		"QT_QUICK_LIB"
+		"QT_QUICK_LIB",
+		"QT_SENSORS_LIB"
 	],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -104,6 +107,9 @@
 		"/home/phong/qt6/pi/include/QtQmlModels",
 		"/home/phong/qt6/pi/include/QtQmlWorkerScript",
 		"/home/phong/qt6/pi/include/QtOpenGL",
+		"/home/phong/qt6/pi/include/QtBluetooth",
+		"/home/phong/qt6/pi/include/QtMultimedia",
+		"/home/phong/qt6/pi/include/QtSensors",
 		"/home/phong/rpi-sysroot/usr/include",
 		"/home/phong/rpi-sysroot/usr/include/aarch64-linux-gnu",
 		"/opt/cross-pi-gcc/aarch64-linux-gnu/include/c++/12.2.0",
