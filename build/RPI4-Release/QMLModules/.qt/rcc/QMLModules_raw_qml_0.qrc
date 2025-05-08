@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/qt/qml/QMLModules/">
+    <file alias="BluetoothPanel.qml">/home/phong/MediaPlayerV2/QMLModules/BluetoothPanel.qml</file>
+    <file alias="ProgressBar.qml">/home/phong/MediaPlayerV2/QMLModules/ProgressBar.qml</file>
+    <file alias="VolumeControl.qml">/home/phong/MediaPlayerV2/QMLModules/VolumeControl.qml</file>
+    <file alias="PlayerControls.qml">/home/phong/MediaPlayerV2/QMLModules/PlayerControls.qml</file>
+    <file alias="PlaylistView.qml">/home/phong/MediaPlayerV2/QMLModules/PlaylistView.qml</file>
+    <file alias="SensorsPanel.qml">/home/phong/MediaPlayerV2/QMLModules/SensorsPanel.qml</file>
+  </qresource>
+</RCC>
+

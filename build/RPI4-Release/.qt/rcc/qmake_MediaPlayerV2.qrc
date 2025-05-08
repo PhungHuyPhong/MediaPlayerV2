@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/MediaPlayerV2">
+    <file alias="qmldir">/home/phong/MediaPlayerV2/build/RPI4-Release/MediaPlayerV2/qmldir</file>
+  </qresource>
+</RCC>
+

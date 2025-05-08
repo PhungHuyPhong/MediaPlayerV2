@@ -38,7 +38,7 @@ set_target_properties(appMediaPlayerV2 PROPERTIES
 )
 
 target_link_libraries(appMediaPlayerV2
-    PRIVATE Qt6::Quick Qt6::Bluetooth Qt6::Multimedia Qt6::Core Qt6::Gui Qt6::Qml Qt6::Sensors
+    PRIVATE QMLModulesplugin Qt6::Quick Qt6::Bluetooth Qt6::Multimedia Qt6::Core Qt6::Gui Qt6::Qml Qt6::Sensors
 )
 
 include(GNUInstallDirs)

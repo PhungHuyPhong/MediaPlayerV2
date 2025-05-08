@@ -1,0 +1,905 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "QMLModules/libQMLModules.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"qt_add_library",
+			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_link_libraries",
+			"target_compile_definitions",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"/home/phong/qt6/pi/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"QMLModules/CMakeLists.txt",
+			"/home/phong/qt6/pi/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/home/phong/qt6/pi/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:792:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2767,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2655,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2742,
+				"parent" : 3
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 2,
+				"line" : 1241,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 896,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3448,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2859,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3454,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2859,
+				"parent" : 10
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 0
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 591,
+				"parent" : 6
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 785,
+				"parent" : 6
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 3830,
+				"parent" : 15
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 3855,
+				"parent" : 15
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3655,
+				"parent" : 15
+			},
+			{
+				"command" : 13,
+				"file" : 0,
+				"line" : 1500,
+				"parent" : 18
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3821,
+				"parent" : 15
+			},
+			{
+				"command" : 17,
+				"file" : 2,
+				"line" : 839,
+				"parent" : 6
+			},
+			{
+				"command" : 16,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 21
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 2491,
+				"parent" : 22
+			},
+			{
+				"command" : 13,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 23
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 18,
+				"file" : 2,
+				"line" : 3312,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 1710,
+				"parent" : 26
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3175,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3368,
+				"parent" : 7
+			},
+			{
+				"command" : 17,
+				"file" : 2,
+				"line" : 3470,
+				"parent" : 7
+			},
+			{
+				"command" : 16,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 39
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 2491,
+				"parent" : 40
+			},
+			{
+				"command" : 13,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 41
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 20,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 43
+			},
+			{
+				"command" : 19,
+				"file" : 0,
+				"line" : 817,
+				"parent" : 44
+			},
+			{
+				"command" : 13,
+				"file" : 0,
+				"line" : 2212,
+				"parent" : 45
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -isystem=/usr/include -isystem=/usr/local/include -isystem=/usr/include/aarch64-linux-gnu -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 12,
+					"define" : "QT_BLUETOOTH_LIB"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_MULTIMEDIA_LIB"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_QMLMETA_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_QMLWORKERSCRIPT_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_QML_DEBUG"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "QT_SENSORS_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/home/phong/MediaPlayerV2/build/RPI4-Debug/QMLModules/QMLModules_autogen/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/phong/MediaPlayerV2/QMLModules"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtQml/6.8.2"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtQml/6.8.2/QtQml"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtCore/6.8.2"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtCore/6.8.2/QtCore"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtCore"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/mkspecs/devices/linux-rasp-pi4-aarch64"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtQml"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 17,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtNetwork"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtQuick"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtGui"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtQmlMeta"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtQmlModels"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtQmlWorkerScript"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtBluetooth"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtMultimedia"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "/home/phong/qt6/pi/include/QtSensors"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				3,
+				5,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				17
+			],
+			"sysroot" : 
+			{
+				"path" : "/home/phong/rpi-sysroot"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 9,
+			"id" : "QMLModules_copy_qml::@89f6523c670cbd19057e"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "QMLModules_copy_res::@89f6523c670cbd19057e"
+		},
+		{
+			"id" : "QMLModules_autogen_timestamp_deps::@89f6523c670cbd19057e"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "QMLModules_autogen::@89f6523c670cbd19057e"
+		}
+	],
+	"id" : "QMLModules::@89f6523c670cbd19057e",
+	"name" : "QMLModules",
+	"nameOnDisk" : "libQMLModules.a",
+	"paths" : 
+	{
+		"build" : "QMLModules",
+		"source" : "QMLModules"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				21
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1,
+				4,
+				7,
+				9,
+				11,
+				13,
+				15,
+				19,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				2,
+				3,
+				5,
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				17
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				18,
+				20
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/QMLModules_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 19,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/meta_types/qt6qmlmodules_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 20,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/qmlmodules_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 24,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.qt/rcc/qrc_qmake_QMLModules.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 25,
+			"path" : "QMLModules/BluetoothPanel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 28,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_BluetoothPanel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 29,
+			"path" : "QMLModules/ProgressBar.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 30,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_ProgressBar_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 31,
+			"path" : "QMLModules/VolumeControl.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 32,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_VolumeControl_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 33,
+			"path" : "QMLModules/PlayerControls.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 34,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_PlayerControls_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 35,
+			"path" : "QMLModules/PlaylistView.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 36,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_PlaylistView_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 37,
+			"path" : "QMLModules/SensorsPanel.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 38,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_SensorsPanel_qml.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 42,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.qt/rcc/qrc_QMLModules_raw_qml_0.cpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 46,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.qt/rcc/qmake_QMLModules.qrc",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 46,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/qmldir",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 46,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.qt/rcc/QMLModules_raw_qml_0.qrc",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/QMLModules_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/meta_types/qt6qmlmodules_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/qmlmodules_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.qt/rcc/qrc_qmake_QMLModules.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_BluetoothPanel_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_ProgressBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_VolumeControl_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_PlayerControls_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_PlaylistView_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.rcc/qmlcache/QMLModules_SensorsPanel_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/.qt/rcc/qrc_QMLModules_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/QMLModules_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/RPI4-Debug/QMLModules/meta_types/QMLModules_json_file_list.txt.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 13,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6qml_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6core_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6network_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6quick_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6gui_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6qmlmeta_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6qmlmodels_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6qmlworkerscript_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6opengl_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6bluetooth_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6multimedia_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 12,
+			"path" : "/home/phong/qt6/pi/metatypes/qt6sensors_release_metatypes.json",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

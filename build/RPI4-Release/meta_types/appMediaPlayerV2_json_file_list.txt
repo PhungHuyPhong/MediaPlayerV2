@@ -1,0 +1,4 @@
+/home/phong/MediaPlayerV2/build/RPI4-Release/appMediaPlayerV2_autogen/include/../EWIEGA46WW/moc_bluetoothmanager.cpp.json
+/home/phong/MediaPlayerV2/build/RPI4-Release/appMediaPlayerV2_autogen/include/../EWIEGA46WW/moc_mediaplayer.cpp.json
+/home/phong/MediaPlayerV2/build/RPI4-Release/appMediaPlayerV2_autogen/include/../EWIEGA46WW/moc_playlistmodel.cpp.json
+/home/phong/MediaPlayerV2/build/RPI4-Release/appMediaPlayerV2_autogen/include/../EWIEGA46WW/moc_sensorsmanager.cpp.json
