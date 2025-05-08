@@ -5,7 +5,7 @@ import QtQuick.Window
 import QMLModules
 
 ApplicationWindow {
-    id: root
+    id: window
     visible: true
     width: 800
     height: 600
@@ -50,7 +50,6 @@ ApplicationWindow {
                     color: "lightgray"
                     horizontalAlignment: Text.AlignHCenter
                 }
-
                 Label {
                     Layout.fillWidth: true
                     text: "Status: " + mediaPlayer.playbackState

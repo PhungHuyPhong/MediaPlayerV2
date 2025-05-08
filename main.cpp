@@ -21,7 +21,6 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
     app.setApplicationName("Smart Media Player");
     app.setOrganizationName("Smart Media Player");
-    app.setOrganizationDomain("smartmediaplayer.example.com");
 
 
     // Parse command line arguments
@@ -44,6 +43,8 @@ int main(int argc, char *argv[])
     MediaPlayer mediaPlayer;
     BluetoothManager bluetoothManager;
     SensorsManager sensorsManager;
+
+    PlaylistModel playlistModel;
 
     // Connect the gesture handler
     setupGestureHandling(&sensorsManager, &mediaPlayer);

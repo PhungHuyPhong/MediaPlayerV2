@@ -1,0 +1,13 @@
+module QMLModules
+linktarget QMLModulesplugin
+optional plugin QMLModulesplugin
+classname QMLModulesPlugin
+typeinfo QMLModules.qmltypes
+prefer :/qt/qml/QMLModules/
+BluetoothPanel 1.0 BluetoothPanel.qml
+ProgressBar 1.0 ProgressBar.qml
+VolumeControl 1.0 VolumeControl.qml
+PlayerControls 1.0 PlayerControls.qml
+PlaylistView 1.0 PlaylistView.qml
+SensorsPanel 1.0 SensorsPanel.qml
+

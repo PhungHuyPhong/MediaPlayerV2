@@ -1,4 +1,7 @@
 #include "bluetoothmanager.h"
+\
+bool m_bluetoothEnabled = false;
+QString m_connectedDeviceName;
 
 BluetoothManager::BluetoothManager(QObject *parent)
     : QObject(parent)
@@ -147,4 +150,19 @@ QVariantMap BluetoothManager::_deviceInfoToMap(const QBluetoothDeviceInfo &info)
     map["name"] = info.name();
     map["address"] = info.address().toString();
     return map;
+}
+
+bool BluetoothManager::bluetoothEnabled() const {
+    return m_bluetoothEnabled;
+}
+
+void BluetoothManager::setBluetoothEnabled(bool enabled) {
+    if (m_bluetoothEnabled != enabled) {
+        m_bluetoothEnabled = enabled;
+        emit bluetoothEnabledChanged();
+    }
+}
+
+QString BluetoothManager::connectedDeviceName() const {
+    return m_connectedDeviceName;
 }

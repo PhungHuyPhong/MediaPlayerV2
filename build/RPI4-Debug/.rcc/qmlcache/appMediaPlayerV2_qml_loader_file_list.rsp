@@ -1,0 +1,5 @@
+--resource
+/home/phong/MediaPlayerV2/build/RPI4-Debug/.qt/rcc/qmake_MediaPlayerV2.qrc
+--resource
+/home/phong/MediaPlayerV2/build/RPI4-Debug/.qt/rcc/appMediaPlayerV2_raw_qml_0.qrc
+/qt/qml/MediaPlayerV2/Main.qml

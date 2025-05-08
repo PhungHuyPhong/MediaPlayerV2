@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/MediaPlayerV2/">
+    <file alias="Main.qml">/home/phong/MediaPlayerV2/Main.qml</file>
+    <file alias="README.md">/home/phong/MediaPlayerV2/README.md</file>
+  </qresource>
+</RCC>
+

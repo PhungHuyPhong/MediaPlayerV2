@@ -26,6 +26,9 @@ class BluetoothManager : public QObject
     Q_PROPERTY(QVariantList devices READ devices NOTIFY devicesChanged)
     Q_PROPERTY(QVariantMap connectedDevice READ connectedDevice NOTIFY connectionChanged)
 
+    Q_PROPERTY(bool bluetoothEnabled READ bluetoothEnabled WRITE setBluetoothEnabled NOTIFY bluetoothEnabledChanged)
+    Q_PROPERTY(QString connectedDeviceName READ connectedDeviceName NOTIFY connectedDeviceNameChanged)
+
 public:
     explicit BluetoothManager(QObject *parent = nullptr);
     ~BluetoothManager();
@@ -70,12 +73,19 @@ public:
      */
     Q_INVOKABLE void disconnect();
 
+    bool bluetoothEnabled() const;
+
+    void setBluetoothEnabled(bool enabled);
+
+    QString connectedDeviceName() const;
+
 signals:
     void scanningChanged();
     void devicesChanged();
     void connectionChanged();
     void errorOccurred(const QString &error);
-
+    void bluetoothEnabledChanged();
+    void connectedDeviceNameChanged();
 private:
     bool m_isScanning;
     QList<QBluetoothDeviceInfo> m_devices;

@@ -208,3 +208,16 @@
 19	22	1745387430745794907	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/meta_types/qt6appmediaplayerv2_debug_metatypes.json	37dd313551d5597
 22	2104	1745387432829805008	CMakeFiles/appMediaPlayerV2.dir/main.cpp.o	86734b224064fe17
 2104	2496	1745387433220806907	appMediaPlayerV2	cefc79c642c608cf
+1	4	1746372906894510827	.qt/appMediaPlayerV2_qml.txt	e5226e12f6fe05e5
+1	4	1746372906894510827	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.qt/appMediaPlayerV2_qml.txt	e5226e12f6fe05e5
+1	67	1746372906956514902	.qt/qml_imports/appMediaPlayerV2_build.cmake	abc7d26bbb88d4e
+1	67	1746372906956514902	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.qt/qml_imports/appMediaPlayerV2_build.cmake	abc7d26bbb88d4e
+67	71	1746372906962515296	.qt/rcc/qrc_appMediaPlayerV2_raw_qml_0.cpp	876b21a251502bd4
+67	71	1746372906962515296	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.qt/rcc/qrc_appMediaPlayerV2_raw_qml_0.cpp	876b21a251502bd4
+67	161	1746372907047520877	.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp	547bb5057df1646a
+67	161	1746372907047520877	.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp.aotstats	547bb5057df1646a
+67	161	1746372907047520877	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp	547bb5057df1646a
+67	161	1746372907047520877	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Debug/.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp.aotstats	547bb5057df1646a
+161	176	1746372907067522189	CMakeFiles/appMediaPlayerV2.dir/build/Desktop_Qt_6_8_2-Debug/.qt/rcc/qrc_appMediaPlayerV2_raw_qml_0.cpp.o	8d4c6fdb651cac47
+161	1519	1746372908409610168	CMakeFiles/appMediaPlayerV2.dir/build/Desktop_Qt_6_8_2-Debug/.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp.o	6ac0b0ca6e013372
+1519	1944	1746372908832637862	appMediaPlayerV2	cefc79c642c608cf

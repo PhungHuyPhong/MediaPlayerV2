@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_QMLModules_FILE /home/phong/MediaPlayerV2/build/RPI4-Debug/QMLModules/libQMLModules.a)
+set(__QT_DEPLOY_TARGET_QMLModules_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_QMLModulesplugin_FILE /home/phong/MediaPlayerV2/build/RPI4-Debug/QMLModules/libQMLModulesplugin.a)
+set(__QT_DEPLOY_TARGET_QMLModulesplugin_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_appMediaPlayerV2_FILE /home/phong/MediaPlayerV2/build/RPI4-Debug/appMediaPlayerV2)
+set(__QT_DEPLOY_TARGET_appMediaPlayerV2_TYPE EXECUTABLE)

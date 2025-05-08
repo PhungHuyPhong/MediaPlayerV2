@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/QMLModules">/home/phong/MediaPlayerV2/build/RPI4-Debug/QMLModules</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+-rootPath
+/home/phong/MediaPlayerV2
+-cmake-output
+-output-file
+/home/phong/MediaPlayerV2/build/RPI4-Debug/.qt/qml_imports/appMediaPlayerV2_conf.cmake
+-importPath
+/home/phong/MediaPlayerV2/build/RPI4-Debug/MediaPlayerV2
+-importPath
+/home/phong/MediaPlayerV2/build/RPI4-Debug
+-importPath
+/home/phong/qt6/pi/qml
+-qrcFiles
+/home/phong/MediaPlayerV2/build/RPI4-Debug/.qt/rcc/qmake_MediaPlayerV2.qrc
+/home/phong/MediaPlayerV2/build/RPI4-Debug/.qt/rcc/appMediaPlayerV2_raw_qml_0.qrc

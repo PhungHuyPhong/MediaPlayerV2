@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 371,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 23
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 56,
+                        "durationMicroseconds": 62,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 34
@@ -65,7 +65,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on text.",
                         "functionName": "text",
-                        "line": 56
+                        "line": 55
                     },
                     {
                         "codegenSuccessfull": false,
@@ -73,39 +73,39 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on horizontalAlignment.",
                         "functionName": "horizontalAlignment",
-                        "line": 59
+                        "line": 58
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 75,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "mediaPlayer",
-                        "line": 68
+                        "line": 67
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 74,
+                        "durationMicroseconds": 72,
                         "errorMessage": "",
                         "functionName": "mediaPlayer",
-                        "line": 78
+                        "line": 77
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 68,
+                        "durationMicroseconds": 69,
                         "errorMessage": "",
                         "functionName": "mediaPlayer",
-                        "line": 85
+                        "line": 84
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 231,
+                        "durationMicroseconds": 240,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
                         "functionName": "color",
-                        "line": 93
+                        "line": 92
                     },
                     {
                         "codegenSuccessfull": false,
@@ -113,7 +113,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on orientation.",
                         "functionName": "orientation",
-                        "line": 99
+                        "line": 98
                     },
                     {
                         "codegenSuccessfull": false,
@@ -121,15 +121,15 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on fill.",
                         "functionName": "fill",
-                        "line": 97
+                        "line": 96
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 74,
+                        "durationMicroseconds": 75,
                         "errorMessage": "",
                         "functionName": "playlistModel",
-                        "line": 105
+                        "line": 104
                     },
                     {
                         "codegenSuccessfull": true,
@@ -137,7 +137,7 @@
                         "durationMicroseconds": 69,
                         "errorMessage": "",
                         "functionName": "mediaPlayer",
-                        "line": 106
+                        "line": 105
                     },
                     {
                         "codegenSuccessfull": false,
@@ -145,7 +145,7 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on preferredWidth.",
                         "functionName": "preferredWidth",
-                        "line": 103
+                        "line": 102
                     },
                     {
                         "codegenSuccessfull": false,
@@ -153,39 +153,39 @@
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on preferredWidth.",
                         "functionName": "preferredWidth",
-                        "line": 111
+                        "line": 110
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 55,
+                        "durationMicroseconds": 56,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 116
+                        "line": 115
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 45,
-                        "durationMicroseconds": 69,
+                        "durationMicroseconds": 70,
                         "errorMessage": "",
                         "functionName": "sensorsManager",
-                        "line": 123
-                    },
-                    {
-                        "codegenSuccessfull": true,
-                        "column": 53,
-                        "durationMicroseconds": 156,
-                        "errorMessage": "",
-                        "functionName": "preferredHeight",
                         "line": 122
                     },
                     {
                         "codegenSuccessfull": true,
+                        "column": 53,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 70,
+                        "durationMicroseconds": 73,
                         "errorMessage": "",
                         "functionName": "bluetoothManager",
-                        "line": 130
+                        "line": 129
                     }
                 ],
                 "filepath": "/home/phong/MediaPlayerV2/Main.qml"

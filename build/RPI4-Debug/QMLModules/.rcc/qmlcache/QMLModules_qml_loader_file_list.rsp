@@ -1,0 +1,10 @@
+--resource
+/home/phong/MediaPlayerV2/build/RPI4-Debug/QMLModules/.qt/rcc/qmake_QMLModules.qrc
+--resource
+/home/phong/MediaPlayerV2/build/RPI4-Debug/QMLModules/.qt/rcc/QMLModules_raw_qml_0.qrc
+/qt/qml/QMLModules/BluetoothPanel.qml
+/qt/qml/QMLModules/ProgressBar.qml
+/qt/qml/QMLModules/VolumeControl.qml
+/qt/qml/QMLModules/PlayerControls.qml
+/qt/qml/QMLModules/PlaylistView.qml
+/qt/qml/QMLModules/SensorsPanel.qml

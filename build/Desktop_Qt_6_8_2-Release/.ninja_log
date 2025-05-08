@@ -128,3 +128,16 @@
 3282	5782	1745595761716979969	CMakeFiles/appMediaPlayerV2.dir/bluetoothmanager.cpp.o	42ac3251e8c51457
 3281	5858	1745595761792977609	CMakeFiles/appMediaPlayerV2.dir/main.cpp.o	9c7ce9fa7913c57b
 5858	6216	1745595762147966592	appMediaPlayerV2	a9650945484f43e3
+2	6	1746372894306673958	.qt/appMediaPlayerV2_qml.txt	89ce1e7a939ced8
+2	6	1746372894306673958	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Release/.qt/appMediaPlayerV2_qml.txt	89ce1e7a939ced8
+3	83	1746372894380678937	.qt/qml_imports/appMediaPlayerV2_build.cmake	13e16ff4bd79da33
+3	83	1746372894380678937	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Release/.qt/qml_imports/appMediaPlayerV2_build.cmake	13e16ff4bd79da33
+84	89	1746372894389679542	.qt/rcc/qrc_appMediaPlayerV2_raw_qml_0.cpp	3bf4ca0e3818bed6
+84	89	1746372894389679542	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Release/.qt/rcc/qrc_appMediaPlayerV2_raw_qml_0.cpp	3bf4ca0e3818bed6
+83	186	1746372894481685732	.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp	2c3cc4d8cdcf5731
+83	186	1746372894481685732	.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp.aotstats	2c3cc4d8cdcf5731
+83	186	1746372894481685732	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Release/.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp	2c3cc4d8cdcf5731
+83	186	1746372894481685732	/home/phong/MediaPlayerV2/build/Desktop_Qt_6_8_2-Release/.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp.aotstats	2c3cc4d8cdcf5731
+186	235	1746372894535689365	CMakeFiles/appMediaPlayerV2.dir/build/Desktop_Qt_6_8_2-Release/.qt/rcc/qrc_appMediaPlayerV2_raw_qml_0.cpp.o	8f405984c6d83154
+186	1515	1746372895815775375	CMakeFiles/appMediaPlayerV2.dir/build/Desktop_Qt_6_8_2-Release/.rcc/qmlcache/appMediaPlayerV2_Main_qml.cpp.o	1199962213b2d983
+1516	1868	1746372896164798789	appMediaPlayerV2	a9650945484f43e3

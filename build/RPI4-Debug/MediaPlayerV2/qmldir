@@ -1,0 +1,5 @@
+module MediaPlayerV2
+typeinfo appMediaPlayerV2.qmltypes
+prefer :/qt/qml/MediaPlayerV2/
+Main 1.0 Main.qml
+
