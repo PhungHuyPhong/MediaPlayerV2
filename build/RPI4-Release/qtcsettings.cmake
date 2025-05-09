@@ -1,15 +1,2 @@
 # This file is managed by Qt Creator, do not edit!
 
-set("CMAKE_PREFIX_PATH" "/home/phong/qt6/pi" CACHE "PATH" "" FORCE)
-set("CMAKE_PROJECT_INCLUDE_BEFORE" "/home/phong/MediaPlayerV2/build/RPI4-Release/.qtc/package-manager/auto-setup.cmake" CACHE "FILEPATH" "" FORCE)
-set("CMAKE_CXX_COMPILER_TARGET" "" CACHE "STRING" "" FORCE)
-set("CMAKE_GENERATOR" "Ninja" CACHE "STRING" "" FORCE)
-set("CMAKE_CXX_FLAGS_INIT" "" CACHE "STRING" "" FORCE)
-set("CMAKE_C_COMPILER" "/opt/cross-pi-gcc/bin/aarch64-linux-gnu-gcc" CACHE "FILEPATH" "" FORCE)
-set("CMAKE_SYSROOT" "/home/phong/rpi-sysroot" CACHE "PATH" "" FORCE)
-set("CMAKE_TOOLCHAIN_FILE" "/home/phong/qt6/pi/lib/cmake/Qt6/qt.toolchain.cmake" CACHE "UNINITIALIZED" "" FORCE)
-set("CMAKE_BUILD_TYPE" "Release" CACHE "STRING" "" FORCE)
-set("CMAKE_CXX_COMPILER" "/opt/cross-pi-gcc/bin/aarch64-linux-gnu-g++" CACHE "FILEPATH" "" FORCE)
-set("CMAKE_COLOR_DIAGNOSTICS" "ON" CACHE "BOOL" "" FORCE)
-set("QT_QMAKE_EXECUTABLE" "/home/phong/qt6/pi/bin/qmake" CACHE "FILEPATH" "" FORCE)
-set("CMAKE_C_COMPILER_TARGET" "" CACHE "STRING" "" FORCE)

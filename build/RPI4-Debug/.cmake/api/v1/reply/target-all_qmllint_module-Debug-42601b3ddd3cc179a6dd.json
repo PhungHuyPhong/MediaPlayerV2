@@ -29,7 +29,7 @@
 			{
 				"command" : 6,
 				"file" : 2,
-				"line" : 15,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
@@ -53,7 +53,7 @@
 			{
 				"command" : 2,
 				"file" : 1,
-				"line" : 1542,
+				"line" : 1546,
 				"parent" : 4
 			},
 			{
@@ -110,7 +110,7 @@
 			{
 				"command" : 2,
 				"file" : 1,
-				"line" : 1542,
+				"line" : 1546,
 				"parent" : 14
 			},
 			{
@@ -131,19 +131,19 @@
 	[
 		{
 			"backtrace" : 9,
-			"id" : "appMediaPlayerV2_qmllint::@6890427a1f51a3e7e1df"
+			"id" : "appMediaPlayerV2_qmllint_module::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 17,
-			"id" : "QMLModules_qmllint::@89f6523c670cbd19057e"
+			"id" : "QMLModules_qmllint_module::@89f6523c670cbd19057e"
 		}
 	],
 	"folder" : 
 	{
 		"name" : "QtInternalTargets/QmlLinter"
 	},
-	"id" : "all_qmllint::@6890427a1f51a3e7e1df",
-	"name" : "all_qmllint",
+	"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+	"name" : "all_qmllint_module",
 	"paths" : 
 	{
 		"build" : ".",

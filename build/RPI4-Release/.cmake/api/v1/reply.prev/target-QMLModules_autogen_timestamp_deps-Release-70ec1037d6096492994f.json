@@ -12,7 +12,7 @@
 		],
 		"files" : 
 		[
-			"CMakeLists.txt",
+			"QMLModules/CMakeLists.txt",
 			"/home/phong/qt6/pi/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake"
 		],
 		"nodes" : 
@@ -23,7 +23,7 @@
 			{
 				"command" : 4,
 				"file" : 0,
-				"line" : 15,
+				"line" : 12,
 				"parent" : 0
 			},
 			{
@@ -68,32 +68,24 @@
 	[
 		{
 			"backtrace" : 5,
-			"id" : "appMediaPlayerV2_copy_qml::@6890427a1f51a3e7e1df"
+			"id" : "QMLModules_copy_qml::@89f6523c670cbd19057e"
 		},
 		{
 			"backtrace" : 7,
-			"id" : "appMediaPlayerV2_copy_res::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 0,
-			"id" : "appMediaPlayerV2_qmlimportscan::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 0,
-			"id" : "QMLModulesplugin::@89f6523c670cbd19057e"
+			"id" : "QMLModules_copy_res::@89f6523c670cbd19057e"
 		}
 	],
 	"folder" : 
 	{
 		"name" : "QtInternalTargets"
 	},
-	"id" : "appMediaPlayerV2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+	"id" : "QMLModules_autogen_timestamp_deps::@89f6523c670cbd19057e",
 	"isGeneratorProvided" : true,
-	"name" : "appMediaPlayerV2_autogen_timestamp_deps",
+	"name" : "QMLModules_autogen_timestamp_deps",
 	"paths" : 
 	{
-		"build" : ".",
-		"source" : "."
+		"build" : "QMLModules",
+		"source" : "QMLModules"
 	},
 	"sources" : [],
 	"type" : "UTILITY"

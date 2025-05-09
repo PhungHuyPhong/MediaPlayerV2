@@ -1,63 +1,62 @@
 {
-	"backtrace" : 5,
+	"backtrace" : 3,
 	"backtraceGraph" : 
 	{
 		"commands" : 
 		[
 			"add_custom_target",
-			"_qt_internal_qml_copy_files_to_build_dir",
-			"qt6_target_qml_sources",
-			"qt6_add_qml_module",
-			"qt_add_qml_module"
+			"_qt_internal_deferred_aotstats_setup",
+			"add_dependencies"
 		],
 		"files" : 
 		[
 			"/home/phong/qt6/pi/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/home/phong/qt6/pi/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1085:EVAL",
 			"CMakeLists.txt"
 		],
 		"nodes" : 
 		[
 			{
-				"file" : 1
+				"file" : 2
 			},
 			{
-				"command" : 4,
-				"file" : 1,
-				"line" : 15,
+				"file" : 2,
+				"line" : -1,
 				"parent" : 0
 			},
 			{
-				"command" : 3,
-				"file" : 0,
-				"line" : 1241,
-				"parent" : 1
-			},
-			{
-				"command" : 2,
-				"file" : 0,
-				"line" : 896,
-				"parent" : 2
-			},
-			{
 				"command" : 1,
-				"file" : 0,
-				"line" : 3448,
-				"parent" : 3
+				"file" : 1,
+				"line" : 1,
+				"parent" : 1
 			},
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 2840,
-				"parent" : 4
+				"line" : 1138,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 1143,
+				"parent" : 2
 			}
 		]
 	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "QMLModules_qmltyperegistration::@89f6523c670cbd19057e"
+		}
+	],
 	"folder" : 
 	{
 		"name" : "QtInternalTargets"
 	},
-	"id" : "appMediaPlayerV2_copy_qml::@6890427a1f51a3e7e1df",
-	"name" : "appMediaPlayerV2_copy_qml",
+	"id" : "module_QMLModules_aotstats_target::@6890427a1f51a3e7e1df",
+	"name" : "module_QMLModules_aotstats_target",
 	"paths" : 
 	{
 		"build" : ".",
@@ -84,21 +83,21 @@
 	"sources" : 
 	[
 		{
-			"backtrace" : 5,
+			"backtrace" : 3,
 			"isGenerated" : true,
-			"path" : "build/RPI4-Debug/CMakeFiles/appMediaPlayerV2_copy_qml",
+			"path" : "build/RPI4-Release/CMakeFiles/module_QMLModules_aotstats_target",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/RPI4-Debug/CMakeFiles/appMediaPlayerV2_copy_qml.rule",
+			"path" : "build/RPI4-Release/CMakeFiles/module_QMLModules_aotstats_target.rule",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/RPI4-Debug/.qt/appMediaPlayerV2_qml.txt.rule",
+			"path" : "build/RPI4-Release/QMLModules/.rcc/qmlcache/module_QMLModules.aotstats.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

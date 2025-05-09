@@ -23,7 +23,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 15,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
@@ -47,7 +47,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 1461,
+				"line" : 1488,
 				"parent" : 4
 			}
 		]
@@ -62,8 +62,8 @@
 	{
 		"name" : "QtInternalTargets/QmlLinter"
 	},
-	"id" : "appMediaPlayerV2_qmllint::@6890427a1f51a3e7e1df",
-	"name" : "appMediaPlayerV2_qmllint",
+	"id" : "appMediaPlayerV2_qmllint_json::@6890427a1f51a3e7e1df",
+	"name" : "appMediaPlayerV2_qmllint_json",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,13 +91,13 @@
 		{
 			"backtrace" : 5,
 			"isGenerated" : true,
-			"path" : "build/RPI4-Debug/CMakeFiles/appMediaPlayerV2_qmllint",
+			"path" : "build/RPI4-Release/CMakeFiles/appMediaPlayerV2_qmllint_json",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/RPI4-Debug/CMakeFiles/appMediaPlayerV2_qmllint.rule",
+			"path" : "build/RPI4-Release/CMakeFiles/appMediaPlayerV2_qmllint_json.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

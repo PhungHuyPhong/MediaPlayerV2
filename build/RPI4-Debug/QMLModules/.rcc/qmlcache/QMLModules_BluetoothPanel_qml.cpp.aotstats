@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 110,
+                        "durationMicroseconds": 450,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 13
@@ -54,14 +54,14 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 39,
                         "errorMessage": "Cannot access value for name bluetoothManager",
                         "functionName": "visible",
                         "line": 48
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 22,
+                        "column": 23,
                         "durationMicroseconds": 0,
                         "errorMessage": "Cannot resolve property type  for binding on text.",
                         "functionName": "text",
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 27,
+                        "durationMicroseconds": 26,
                         "errorMessage": "Cannot access value for name bluetoothManager",
                         "functionName": "visible",
                         "line": 76
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 62,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 92
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 35,
-                        "durationMicroseconds": 37,
+                        "durationMicroseconds": 36,
                         "errorMessage": "Cannot access value for name bluetoothManager",
                         "functionName": "text",
                         "line": 103
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 57,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 102
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 88,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 167
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 78,
+                        "durationMicroseconds": 79,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 173

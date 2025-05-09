@@ -54,7 +54,7 @@ Rectangle {
             }
 
             Label {
-                text:bbluetoothManager && bluetoothManager.connectedDeviceName && bluetoothManager.connectedDeviceName.length > 0 ? bluetoothManager.connectedDeviceName: "N/A"
+                text: bluetoothManager && bluetoothManager.connectedDeviceName && bluetoothManager.connectedDeviceName.length > 0 ? bluetoothManager.connectedDeviceName: "N/A"
 
                 color: "#e84118" //3
                 font.pixelSize: 16
